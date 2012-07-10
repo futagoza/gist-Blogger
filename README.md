@@ -6,7 +6,7 @@ gist-Blogger
 
 At the end of each of your blog posts, include the following code using the HTML editor:
 
-    <script src="https://raw.github.com/thedailygoza//gist-Blogger/master/gistBlogger.min.js" type="text/javascript"></script>
+    <script src="https://raw.github.com/thedailygoza/gist-Blogger/master/gistBlogger.min.js" type="text/javascript"></script>
 
 Now to include any gist template just add the following anywhere in your blog post:
 
@@ -27,7 +27,7 @@ If you want to work with this script locally, you can clone the repo using:
 
 You can also just copy the source code of the non-minified file:
 
-	https://raw.github.com/thedailygoza//gist-Blogger/master/gistBlogger.js
+	https://raw.github.com/thedailygoza/gist-Blogger/master/gistBlogger.js
 
 
 ## Thanks
